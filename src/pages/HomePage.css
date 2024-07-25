@@ -1,7 +1,6 @@
-/* src/pages/HomePage.css */
 
 .home-page {
-    background-image: url('https://source.unsplash.com/random/1600x900'); /* Background image */
+    background-image: url('https://source.unsplash.com/random/1600x900'); 
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -13,7 +12,7 @@
   }
   
   .container {
-    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background for readability */
+    background: rgba(0, 0, 0, 0.7); 
     border-radius: 8px;
     padding: 2rem;
     max-width: 800px;

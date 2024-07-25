@@ -1,4 +1,3 @@
-// src/components/NoteForm.js
 
 import React, { useState, useEffect } from 'react';
 

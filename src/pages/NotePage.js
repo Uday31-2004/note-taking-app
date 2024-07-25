@@ -1,4 +1,3 @@
-// src/pages/NotePage.js
 
 import React from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
